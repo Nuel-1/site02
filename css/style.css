@@ -1,0 +1,14 @@
+body {background-color: #EAF6F6;}
+h1 {color: purple;}
+h3 {color: red;}
+h4 {color: purple;}
+label{color: green;}
+hr{ border-style: ridge none none;
+border-color: red;
+height: 20px;
+border-width: 10px
+}
+h1 {font-family: cursive, Brush Script MT;
+font-size: 50px;}
+h3 {font-family: monospace;
+font-size: 50px;}
